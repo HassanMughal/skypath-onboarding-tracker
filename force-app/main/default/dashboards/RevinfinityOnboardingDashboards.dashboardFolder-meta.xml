@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DashboardFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>rehman.data.security.2026@example.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <name>Revinfinity Onboarding Dashboards</name>
+</DashboardFolder>
